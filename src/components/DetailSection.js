@@ -64,7 +64,7 @@ const DetailSection = ({ apiDataList, searchError }) => {
                 <p>{apiData.businessDetails.stateJurisdiction}</p>
               </div>
               <div className="column-2">
-                <span>State Jurisdiction Details</span>
+                <span>Center Jurisdiction Details</span>
                 <p>{apiData.businessDetails.centerJurisdiction}</p>
               </div>
               <div className="column-3 none">
